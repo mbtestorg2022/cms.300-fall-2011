@@ -403,7 +403,7 @@ Games as Systems
 {{< tdopen >}}
 
 
-Hunicke, R., M. LeBlanc, et al. "MDA: A Formal Approach to Game Design and Game Research." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
+Hunicke, R., M. LeBlanc, et al. "MDA: A Formal Approach to Game Design and Game Research." ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) Church, D. "Formal Abstract Design Tools." In [_The Game Design Reader: A Rules of Play Anthology_](https://mitpress.mit.edu/9780262195362). Edited by K. Salen and E. Zimmerman. MIT Press, 2005. ISBN: 9780262195362.
 
@@ -480,7 +480,7 @@ Games as Simulations
 
 Frasca, Gonzalo. "Simulation versus Narrative: Introduction to Ludology." In _The Video Game Theory Reader_. Edited by Mark J. P. Wolf and Bernard Perron. Routledge, 2003, pp. 221–37. ISBN: 9780415965798.
 
-Aarseth, E. J. "Doors And Perception: Fiction vs. Simulation in Games." Presented at the Digital Arts and Culture, Copenhagen, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](http://www.erudit.org/revue/im/2007/v/n9/1005528ar.pdf))
+Aarseth, E. J. "Doors And Perception: Fiction vs. Simulation in Games." Presented at the Digital Arts and Culture, Copenhagen, 2005. ([PDF - 2.0MB](http://www.erudit.org/revue/im/2007/v/n9/1005528ar.pdf))
 
 
 {{< tdclose >}}
@@ -565,7 +565,7 @@ Value Systems
 {{< tdopen >}}
 
 
-Flanagan, M., D. C. Howe, and H. Nissenbaum. "Values at Play: Design Tradeoffs in Socially-Oriented Game Design."In _Proceedings of CHI 2005_. ACM Press, 2005, pp. 751–60. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.tiltfactor.org/wp-content/uploads2/Values-at-Play.pdf))
+Flanagan, M., D. C. Howe, and H. Nissenbaum. "Values at Play: Design Tradeoffs in Socially-Oriented Game Design."In _Proceedings of CHI 2005_. ACM Press, 2005, pp. 751–60. ([PDF](http://www.tiltfactor.org/wp-content/uploads2/Values-at-Play.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026147) Bogost, Ian. "Procedural Rhetoric." Chapter 1 in [_Persuasive Games: The Expressive Power of Videogames_](https://mitpress.mit.edu/9780262026147). MIT Press, 2007. ISBN: 9780262026147. \[Preview with [Google Books](http://books.google.com/books?id=GC7MD17YvJEC&pg=PA15&redir_esc=y#v=onepage&q&f=false)\]
 
@@ -630,7 +630,7 @@ Game Culture: Communities
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162579) Pearce, Celia, and Artemesia. [_Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds_](https://mitpress.mit.edu/9780262162579). MIT Press, 2009. ISBN: 9780262162579. \[Preview with [Google Books](http://books.google.com/books?id=LwkFsfR8jDsC&printsec=frontcover#v=onepage&q&f=false)\]
 
-Jakobsson, M., and T. L. Taylor. "The Sopranos Meets EverQuest-Social Networking in Massively Multiplayer Online Games." Presented at the Digital Arts and Culture, Melbourne, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.220&rep=rep1&type=pdf))
+Jakobsson, M., and T. L. Taylor. "The Sopranos Meets EverQuest-Social Networking in Massively Multiplayer Online Games." Presented at the Digital Arts and Culture, Melbourne, 2003. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.220&rep=rep1&type=pdf))
 
 
 {{< tdclose >}}
